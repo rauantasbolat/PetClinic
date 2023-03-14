@@ -1,4 +1,4 @@
-package com.rauan.tasbolat.PetClinic;
+package PetClinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
